@@ -8,6 +8,7 @@ Ant Design provides a practical evaluation of better design for both designers o
 
 <div>
   <img src="https://gw.alipayobjects.com/zos/rmsportal/kEwBspjVFChYqhqafCiW.png" />
+  [//]: # (The word principles is misspelled currently)
 </div>
 
 Here is our design values:
